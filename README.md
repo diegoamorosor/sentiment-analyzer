@@ -160,29 +160,10 @@ Includes `test_fixed_analyzer.py`, which demonstrates:
 
 ---
 
-## 🔍 Future Improvements
-
-Planned features include:
-
-1. Support for additional languages (French, Italian, Portuguese).
-2. Social media API integration.
-3. Web interface with Flask or Django.
-4. Specific emotion detection (joy, sadness, anger).
-5. Graphical visualizations of sentiment trends.
-6. Custom machine learning models for domain-specific texts.
-
----
-
 ## 📚 Resources
 
 * [TextBlob Documentation](https://textblob.readthedocs.io/)
 * [NLTK Book](https://www.nltk.org/book/)
 * [Sentiment Analysis Guide](https://www.sciencedirect.com/science/article/pii/S131915782400137X)
 * [Colorama Documentation](https://pypi.org/project/colorama/)
-
----
-
-> ## 🛠 Version Improvements Note
->
-> This version includes important fixes from a previous implementation that was returning mostly neutral results. Classification thresholds were adjusted (from ±0.1 to ±0.05), and a keyword-based polarity boost was added for Spanish-language input. These changes significantly improved detection accuracy.
 
