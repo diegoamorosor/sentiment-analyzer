@@ -177,7 +177,7 @@ Planned features include:
 
 * [TextBlob Documentation](https://textblob.readthedocs.io/)
 * [NLTK Book](https://www.nltk.org/book/)
-* [Sentiment Analysis Guide](https://monkeylearn.com/sentiment-analysis/)
+* [Sentiment Analysis Guide](https://www.sciencedirect.com/science/article/pii/S131915782400137X)
 * [Colorama Documentation](https://pypi.org/project/colorama/)
 
 ---
